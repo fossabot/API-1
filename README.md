@@ -1,4 +1,6 @@
 # Hacker News API
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FAPI.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FAPI?ref=badge_shield)
+
 
 ## Overview
 
@@ -208,3 +210,7 @@ Example: https://hacker-news.firebaseio.com/v0/updates.json?print=pretty
   "profiles" : [ "thefox", "mdda", "plinkplonk", "GBond", "rqebmm", "neom", "arram", "mcmancini", "metachris", "DubiousPusher", "dochtman", "kstrauser", "biren34", "foobarqux", "mkehrt", "nathanm412", "wmblaettler", "JoeAnzalone", "rcconf", "johndbritton", "msie", "cktsai", "27182818284", "kevinskii", "wildwood", "mcherm", "naiyt", "matthewmcg", "joelhaus", "tshtf", "MrZongle2", "Bogdanp" ]
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FAPI.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FAPI?ref=badge_large)
